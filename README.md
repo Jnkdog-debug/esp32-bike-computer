@@ -76,6 +76,5 @@ GPS 路线记录
 ## MIT / GPL / 自定义协议
 🤝 联系我
 
-项目作者：[你的名字]
-Email：[your.email@example.com]
-博客：[yourblog.com]（可选）
+项目作者：[Jnkdog-debug]
+Email：[1552857704@qq.com]
